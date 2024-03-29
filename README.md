@@ -20,8 +20,3 @@ _Tested with_
 ## 🎊 Sneak Peek
 ![Lesson preview](Resources/First.png) ![]()
 ![Quiz preview](Resources/Second.png) ![]()
-
----
-
-## License
-Distributed under the MIT License. See `LICENSE` for more information.
